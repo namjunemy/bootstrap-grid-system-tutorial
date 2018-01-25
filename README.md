@@ -6,7 +6,9 @@
 
 > [[bootstrap] 부트스트랩이란?](http://ict-nroo.tistory.com/21)
 >
-> [[bootstrap] 부트스트랩3 그리고 프론트엔드롸 백엔드](http://ict-nroo.tistory.com/20)
+> [[bootstrap] 부트스트랩3 그리고 프론트엔드와 백엔드](http://ict-nroo.tistory.com/20)
+
+  
 
 ### Contents
 
