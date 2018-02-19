@@ -1,4 +1,5 @@
 # Bootstrap
+[![Version](https://img.shields.io/badge/version-2017.3.31-red.svg)](./CHANGELOG)  [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](./LICENSE)
 
 부트스트랩을 공부하면서 만든 튜토리얼 자료입니다. 가이드는 저장소에 pdf파일을 참조해주세요.
 
